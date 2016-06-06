@@ -1,4 +1,6 @@
 # Learn.Spring
+
+[![Join the chat at https://gitter.im/liberaldart/Learn.Spring](https://badges.gitter.im/liberaldart/Learn.Spring.svg)](https://gitter.im/liberaldart/Learn.Spring?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Learn to use spring framework
 
 Spring is easy to learn and use. Spring boot is easier to use after you have learnt spring framework. 
